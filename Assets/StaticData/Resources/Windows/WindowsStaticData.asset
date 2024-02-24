@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c66a612177a88f944af234b260565a8e, type: 3}
+  m_Name: WindowsStaticData
+  m_EditorClassIdentifier: 
+  <UIRootPrefab>k__BackingField: {fileID: 8638318576328690013, guid: 7feeee5167b9ca6449c08ee30e07cc6f, type: 3}
+  <HealthWindowPrefab>k__BackingField: {fileID: 4339439546158062563, guid: 3b174618535e51e4eb5f6f5ad35e1ab4, type: 3}
+  <FindLobbyWindowPrefab>k__BackingField: {fileID: 2746313907342757797, guid: fdfde59ed53a3354a9113bb884bf7dd2, type: 3}
+  <LobbyFieldPrefab>k__BackingField: {fileID: 588099816417259009, guid: 2e6497ba03347874da799e30ba28572b, type: 3}

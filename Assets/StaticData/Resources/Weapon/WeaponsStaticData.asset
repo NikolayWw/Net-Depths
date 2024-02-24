@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e407ac3f628b15f4d8e9d01a0b5ca73c, type: 3}
+  m_Name: WeaponsStaticData
+  m_EditorClassIdentifier: 
+  Configs:
+  - _inspectorName: Topor
+    <Id>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 7289611842690645708, guid: 40fcc638db26eac4495ab467bf32fbc8, type: 3}
+    <Damage>k__BackingField: 5
+    <Radius>k__BackingField: 1
+    <DelayBetweenAttack>k__BackingField: 0.8
+    <DelayApplyDamage>k__BackingField: 0.4
